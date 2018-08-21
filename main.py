@@ -257,7 +257,6 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--load', type=int, default=0, help='retrain model')
     parser.add_argument('--model_name', type=str, default='None', help='model to retrain on')
     parser.add_argument('--z_dim', type=str, default='None', help='model comment')
     args = parser.parse_args()
