@@ -4,7 +4,7 @@ code for Unsupervised Detection of Lesions in Brain MRI using constrained advers
 
 AAE model is implemented based on [this github repo](https://github.com/Naresh1318/Adversarial_Autoencoder)
 
-%%%dataset: [Cambridge Centre for Ageing and Neuroscience (Cam-CAN) dataset](http://www.cam-can.org/index.php?content=dataset) 
+##dataset: [Cambridge Centre for Ageing and Neuroscience (Cam-CAN) dataset](http://www.cam-can.org/index.php?content=dataset) 
 
 Required: python>=2.7, tensorlayer, tensorflow>=1.0, numpy
 
