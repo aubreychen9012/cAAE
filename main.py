@@ -9,7 +9,7 @@ import tensorflow as tf
 import tensorlayer as tl
 from model import encoder, decoder, discriminator
 
-import dataset_camcan as datasets
+import import_datasets as datasets
 from funcs.preproc import *
 
 # Parameters
